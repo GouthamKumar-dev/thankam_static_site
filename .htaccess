@@ -91,8 +91,8 @@ FileETag None
 # Redirect www to non-www (uncomment if needed)
 # <IfModule mod_rewrite.c>
 #     RewriteEngine On
-#     RewriteCond %{HTTP_HOST} ^www\.thankamevents\.com [NC]
-#     RewriteRule ^(.*)$ https://thankamevents.com/$1 [L,R=301]
+#     RewriteCond %{HTTP_HOST} ^www\.thankamevents\.in [NC]
+#     RewriteRule ^(.*)$ https://thankamevents.in/$1 [L,R=301]
 # </IfModule>
 
 # Block access to sensitive files

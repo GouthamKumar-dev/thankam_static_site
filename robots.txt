@@ -1,5 +1,5 @@
 # Robots.txt for Thankam Events
-# https://thankamevents.com
+# https://thankamevents.in
 
 User-agent: *
 Allow: /
@@ -27,7 +27,7 @@ Allow: /
 Disallow: /forms/
 
 # Sitemap location
-Sitemap: https://thankamevents.com/sitemap.xml
+Sitemap: https://thankamevents.in/sitemap.xml
 
 # Crawl-delay for polite crawling (optional)
 Crawl-delay: 10
