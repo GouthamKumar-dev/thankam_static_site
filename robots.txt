@@ -1,0 +1,33 @@
+# Robots.txt for Thankam Events
+# https://thankamevents.com
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin or private areas (if any)
+Disallow: /forms/
+
+# Sitemap location
+Sitemap: https://thankamevents.com/sitemap.xml
+
+# Crawl-delay for polite crawling (optional)
+Crawl-delay: 10

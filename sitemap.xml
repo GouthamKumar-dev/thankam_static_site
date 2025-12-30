@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://thankamevents.com/</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thankamevents.com/assets/img/Thankam_Logo.png</image:loc>
+      <image:title>Thankam Events Logo</image:title>
+      <image:caption>Thankam Events - Premier Catering and Event Management in Kollam, Kerala</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://thankamevents.com/assets/img/event-marriage.jpg</image:loc>
+      <image:title>Wedding Event Management Services</image:title>
+      <image:caption>Wedding celebrations and event management by Thankam Events</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://thankamevents.com/assets/img/event-birthday.jpg</image:loc>
+      <image:title>Birthday Party Organization</image:title>
+      <image:caption>Birthday party planning and decoration services</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Sections as virtual pages for better indexing -->
+  <url>
+    <loc>https://thankamevents.com/#about</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://thankamevents.com/#services</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://thankamevents.com/#events</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://thankamevents.com/#gallery</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://thankamevents.com/#contact</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
